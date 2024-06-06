@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    background-color: rgb(83, 83, 85);
+}
+
+.container {
+    margin-top: 25px; 
+    margin-bottom: 30px; 
+}
+
+h1 {
+    color: #00d1d8;
+    margin-bottom: 20px; 
+}
+
+h2 {
+    color: #12afb4;
+}
+
+form {
+    margin-bottom: 20px; 
+    color: azure;
+}
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-top: 20px; 
+    color:azure
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
